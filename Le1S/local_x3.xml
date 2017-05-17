@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This manifest is for Resurrection Remix 5.8.5 for LeEco Le 1s
+-->
+<manifest>
+	<project name="darkabhi/x3-device-tree" path="device/leeco/x3" remote="github" revision="nougat" />
+	<project name="darkabhi/x3-vendor-tree" path="vendor/leeco" remote="github" revision="nougat" />
+	<project name="Raw-Work/RawWork_X3" path="kernel/leeco/x3" remote="github" revision="oreo" />
+</manifest>
