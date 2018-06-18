@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="RAWWORK" fetch="https://github.com/Raw-Work/" />
+	<project name="DarkAbhi/X00TD-device-tree" path="device/asus/X00TD" remote="github" revision="lineage-15.1" />
+	<project name="RawWork_ZB602KL" path="kernel/asus/sdm660" remote="RAWWORK" revision="oreo" />
+	<project name="DarkAbhi/X00TD-vendor-tree" path="vendor/asus" remote="github" revision="lineage-15.1" />
+</manifest>
